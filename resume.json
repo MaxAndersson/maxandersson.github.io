@@ -1,0 +1,427 @@
+{
+  "$schema": "https://json.schemastore.org/resume",
+  "basics": {
+    "name": "Max Andersson",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "maxn90@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Software Engineer/Architect",
+    "location": {
+      "address": "Stockholm, Stockholm County, Sweden",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "maxanderssons",
+        "url": "https://www.linkedin.com/in/maxanderssons/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Fitzr Development",
+      "endDate": "",
+      "highlights": [],
+      "position": "Freelance Software Engineer",
+      "startDate": "2018-09-30",
+      "summary": "Freelancing with customers in Software Engineering & Business Development.\n\nCustomer Cases\n* Gigital (https://gigital.com) is a digital platform for booking artists primary on the b2b-market. Bringing up and coming artists gigs and providing transparent negotiation/pricing for bookers. Here I had the role of Team Lead and their overall infrastructure transformation, enabling continues deployment, and serverless functionallity, and revised their internal processes for efficiency. \n\n*  Scaleout Systems (http://www.scaleoutsystems.com/) is a research based consultancy specializing in cloud/distributed computing, machine learning/AI and scientific computing. I was involved in the early stages of architecting and planning of this startups services as well as providing services related to Cloud Computing.\n\n* Xlent (https://www.xlent.se/) is an IT consultancy and provide services to a wide range of companies. My involvement here has been teaching classes in DevOps and Cloud Computing to linux administrators. \n\n* Safespring (https://www.safespring.com/) is a Cloud Infrastructure provider with resources based on OpenStack and good customer relations. Working with safespring I have provided solutions for Disaster Recovery, Cloud migrations including building idempodent infrastructure as code and configuretion management.",
+      "url": ""
+    },
+    {
+      "name": "-Nova-",
+      "endDate": "",
+      "highlights": [],
+      "position": "Member",
+      "startDate": "2017-02-28",
+      "url": ""
+    },
+    {
+      "name": "Scaleout",
+      "endDate": "2019-12-31",
+      "highlights": [],
+      "position": "Software Engineer",
+      "startDate": "2019-03-31",
+      "url": ""
+    },
+    {
+      "name": "Nacka kommun",
+      "endDate": "2018-09-30",
+      "highlights": [],
+      "position": "CEO-trainee/Stadsdirektörstrainee",
+      "startDate": "2017-09-30",
+      "summary": "Nacka is a municipality  in close proximity to the capital and governs about 1 billion € in assets and another billion in average yearly turnover. \nAs a trainee here I participated in the executive management group  in strategic planning and leadership development along side other management activities. My primary duties was concerning digital change management and trend research.\n\nI learned a lot about leadership, developing kpi's and process orientation in addition to how a large organizations operate at senior management level.",
+      "url": ""
+    },
+    {
+      "name": "Vattenfall Services Nordic AB",
+      "endDate": "2017-06-30",
+      "highlights": [],
+      "position": "Master Thesis",
+      "startDate": "2017-01-31",
+      "url": ""
+    },
+    {
+      "name": "Uppsala University",
+      "endDate": "2017-01-31",
+      "highlights": [],
+      "position": "Teaching Assistant in Applied Cloud Computing",
+      "startDate": "2016-09-30",
+      "summary": "Cloud Computing is a fascinating subject and as a teaching assistant I get to help students navigate the OpenStack platform, containers, objects stores, orchestration, distributed message queues/brokers and data processing task such as MapReduce. The work also involves making the student aware of some of the challenges faced by distributed systems, discuss some core concepts such IAAS,PAAS,SAAS and reason about suitability  of infrastructure for a given problem. The course also includes other areas such as Cloud Security, Service Oriented Architecture (SOA), dynamic provisioning, elasticity and programming in cloud environments.",
+      "url": ""
+    },
+    {
+      "name": "Ericsson",
+      "endDate": "2016-08-31",
+      "highlights": [],
+      "position": "Developer",
+      "startDate": "2016-06-30",
+      "summary": "Summer Internship R&D, Cloud & IP\nAt Ericsson we were given our own project from the begining. Here I learned to appreciate how industry works and got some insight in how this and other large organisations work. Especially working in a smaller team and manaing the our own project was a real learning experience. Here we got to play around with some new web techonlogies, work with timeseries, do some analysis and do some data processing. I learn a lot during my time at Ericsson and had a great time and got to develop analytical thinking.",
+      "url": ""
+    },
+    {
+      "name": "Uppsala University",
+      "endDate": "2016-06-30",
+      "highlights": [],
+      "position": "Research Assistant / Developer of Distributed Computing Application",
+      "startDate": "2016-01-31",
+      "url": ""
+    },
+    {
+      "name": "Uppsala University",
+      "endDate": "2016-01-31",
+      "highlights": [],
+      "position": "Teaching Assistant in Imperative and Object-Oriented Programming Methodology",
+      "startDate": "2014-09-30",
+      "summary": "I always loved programming but this is where I learned how to communicate concepts and ideas.  As a TA you have to be able to communicate complex concepts to people of different technical background, which have been a rewarding challenge. \nIn the course we build on the previous knowledge the students have in algorithms and data structures to apply them in the procedural language C and Object-Oriented Java. We apply a goal-oriented achievement system in the course to make sure students develops  an analytical understanding of program execution lifecycles, as well as an understanding of designing, testing, debugging and documenting software.",
+      "url": ""
+    },
+    {
+      "name": "Netlight",
+      "endDate": "2016-06-30",
+      "highlights": [],
+      "position": "NEXT9 Adept",
+      "startDate": "2016-01-31",
+      "summary": "Next9 is a mentorship program for highly driven and talented people from Swedens top universities. Every year Netlight chooses nine students to partake in their tailored program to groom young professionals and provide them with a kick start towards future careers. During the program we dived in to topics such as career coaching, CV writing and Interview training. Every adapt got a personal mentor were we work though our individual challenges and goals for personal development.\n\nNext9 was a great way to met fascinating and enthusiastic people, but also better understand what companies are looking for and open up for self-reflection.",
+      "url": ""
+    },
+    {
+      "name": "Uppsala teknolog- och naturvetarkår",
+      "endDate": "2014-01-31",
+      "highlights": [],
+      "position": "Sponsorship Contact",
+      "startDate": "2013-01-31",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Uppsala kommun",
+      "position": "Contact Person",
+      "url": "https://www.linkedin.com/company/25386",
+      "startDate": "2013-03-31",
+      "endDate": "2014-02-28",
+      "summary": "Contact Persons are needed to support diffrent kinds of people. Everyone do not work the same way and as a contact person you are able to help youngsters and childeren adapt do socierty. Some need a role model, while others might just need someone to talk to or perhaps just be themselves in a safe environment. There might be many reasons why contact persons are needed, but just beeing able to be there is an amazing feeling itself.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Uppsala University",
+      "area": "School of Entrepreneurship",
+      "studyType": "",
+      "startDate": "2016-12-31",
+      "endDate": "2017-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Uppsala University",
+      "area": "Computer Science and Information Technology",
+      "studyType": "Master of Science (MSc)",
+      "startDate": "2012-12-31",
+      "endDate": "2017-12-31",
+      "gpa": "",
+      "courses": [
+        "1MA010 - Basic Course in Mathematic",
+        "1MA004 - Algebra I",
+        "1DT052 - Computer Networks I",
+        "1TE659 - Computer Architecture and Digital Electronics",
+        "2FE025 - Business Studies, Basic Course A/B",
+        "1DT024 - Advanced Computer Architecture",
+        "1DL241 - Advanced Software Design",
+        "1TD265 - Applied Cloud Computing",
+        "1DL400 - Database Design II"
+      ]
+    },
+    {
+      "institution": "Uppsala University",
+      "area": "Business Administration and Management, General",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2014-12-31",
+      "endDate": "2016-12-31",
+      "gpa": "",
+      "courses": [
+        "2FE032 - Economy, Accounting and Analysis"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Netlight",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Uppsala University",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firebase",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Serverless Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Distributed Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OpenStack",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Serverless architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "English",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Big Data",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Istio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Openstack",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Elastic Stack (ELK)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MapReduce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gitlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microservices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Helm (Software)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Distributed Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Configuration Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
